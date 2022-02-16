@@ -31,6 +31,9 @@ yarn-error.log*
 .env.production.local
 
 # vercel
-.vercel
+.vercels
 
 public/feed.xml
+
+# yarn lock
+yarn.lock
