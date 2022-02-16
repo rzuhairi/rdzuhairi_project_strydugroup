@@ -35,5 +35,10 @@ yarn-error.log*
 
 public/feed.xml
 
+<<<<<<< HEAD
 # yarn lock
 yarn.lock
+=======
+# package json lock
+package-lock.json
+>>>>>>> 3407fb10b490da843824902a0eff382865d45c9b

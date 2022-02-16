@@ -5,8 +5,13 @@ const matter = require('gray-matter')
 
 async function generate() {
   const feed = new RSS({
+<<<<<<< HEAD
     title: 'Zuhairi Rahmad',
     site_url: 'https://rdzuhairi-project-strydugroup.vercel.app/',
+=======
+    title: 'Zuhairi',
+    site_url: 'https://yoursite.com',
+>>>>>>> 3407fb10b490da843824902a0eff382865d45c9b
     feed_url: 'https://yoursite.com/feed.xml'
   })
 
